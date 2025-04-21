@@ -16,7 +16,7 @@ timezone: Asia/Calcutta
 
 title: Ashwin Prabhu A # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline:  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A place for my Capture the Flag (CTF) challenges, writeups, and cybersecurity projects.
@@ -29,7 +29,7 @@ github:
   username: ashwinprabhu18 # change to your GitHub username
 
 twitter:
-  username:  # change to your Twitter username
+  username: _ashwinprabhu_ # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: ashwinprabhu2004@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    -  # change to your Twitter homepage
+    - https://x.com/_ashwinprabhu_ # change to your Twitter homepage
     - https://github.com/ashwinprabhu18 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
